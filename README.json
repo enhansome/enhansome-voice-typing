@@ -14,7 +14,7 @@
             "last_commit": "2026-08-11T06:44:21Z",
             "owner": "cjpais",
             "repo": "Handy",
-            "stars": 29385
+            "stars": 29395
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-12T13:47:51Z",
+            "last_commit": "2026-08-13T08:41:31Z",
             "owner": "Beingpax",
             "repo": "VoiceInk",
-            "stars": 5836
+            "stars": 5841
           }
         },
         {
@@ -67,7 +67,7 @@
             "last_commit": "2026-08-07T18:59:53Z",
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 52855
+            "stars": 52862
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2025-11-19T14:40:46Z",
             "owner": "SYSTRAN",
             "repo": "faster-whisper",
-            "stars": 24881
+            "stars": 24884
           }
         },
         {
@@ -141,7 +141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:27:11.797Z",
+    "last_updated": "2026-08-13T09:49:37.031Z",
     "original_repository": "primaprashant/awesome-voice-typing",
     "original_repository_sha": "48dd7aea0b1dcca8fb57dc61f56e591364678563",
     "enhanced_repository": "enhansome/enhansome-voice-typing",
