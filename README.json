@@ -1,0 +1,151 @@
+{
+  "items": [
+    {
+      "description": "All these tools do the same core thing: transcribe your speech and paste it wherever your cursor is. The differences come down to platform, engine preference, and how much you want beyond basic dictation.\nA few starting points:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Cross-platform default: Handy",
+          "description": ". Biggest open-source project in this list, runs on Linux, macOS, and Windows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T06:44:21Z",
+            "owner": "cjpais",
+            "repo": "Handy",
+            "stars": 29385
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "On macOS, want a native feel: VoiceInk",
+          "description": "or FluidVoice.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-12T13:47:51Z",
+            "owner": "Beingpax",
+            "repo": "VoiceInk",
+            "stars": 5836
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Want cloud providers or AI transformations on top: Whispering",
+          "description": "or OpenWhispr.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T16:04:10Z",
+            "owner": "EpicenterHQ",
+            "repo": "epicenter",
+            "stars": 4753
+          }
+        }
+      ],
+      "title": "Just Tell Me What to Use"
+    },
+    {
+      "description": ": means on-device speech recognition. means the tool supports both local and cloud or BYO-cloud setups.",
+      "items": [],
+      "title": "Directory"
+    },
+    {
+      "description": "Speech recognition engines, models, and APIs that power the tools listed above.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "whisper.cpp",
+          "description": "Pure C/C++ Whisper inference with zero dependencies; runs on Apple Silicon, CUDA, Vulkan, and WASM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-07T18:59:53Z",
+            "owner": "ggml-org",
+            "repo": "whisper.cpp",
+            "stars": 52855
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Faster Whisper",
+          "description": "CTranslate2-based Whisper reimplementation; up to 4x faster with lower memory.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-19T14:40:46Z",
+            "owner": "SYSTRAN",
+            "repo": "faster-whisper",
+            "stars": 24881
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vosk",
+          "description": "Lightweight offline ASR with compact models, 20+ languages, and multi-language bindings.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-09T13:35:47Z",
+            "owner": "alphacep",
+            "repo": "vosk-api",
+            "stars": 15051
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WhisperKit",
+          "description": "Swift package for on-device Whisper on Apple Silicon with streaming support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-06T17:54:25Z",
+            "owner": "argmaxinc",
+            "repo": "argmax-oss-swift",
+            "stars": 6321
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Whisper",
+          "description": "Curated list of Whisper tools and resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-17T12:02:10Z",
+            "owner": "sindresorhus",
+            "repo": "awesome-whisper",
+            "stars": 2368
+          }
+        }
+      ],
+      "title": "Related Projects"
+    },
+    {
+      "description": "See CONTRIBUTING.md for guidelines on adding, updating, or removing entries.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "MIT",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:27:11.797Z",
+    "original_repository": "primaprashant/awesome-voice-typing",
+    "original_repository_sha": "48dd7aea0b1dcca8fb57dc61f56e591364678563",
+    "enhanced_repository": "enhansome/enhansome-voice-typing",
+    "enhanced_repository_description": null,
+    "title": "Awesome Voice Typing with stars"
+  }
+}
