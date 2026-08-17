@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T10:20:27Z",
+            "last_commit": "2026-08-17T09:18:28Z",
             "owner": "cjpais",
             "repo": "Handy",
-            "stars": 29670
+            "stars": 29763
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-16T08:40:32Z",
+            "last_commit": "2026-08-16T11:17:19Z",
             "owner": "Beingpax",
             "repo": "VoiceInk",
-            "stars": 5907
+            "stars": 5928
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-08-14T22:27:06Z",
             "owner": "EpicenterHQ",
             "repo": "epicenter",
-            "stars": 4755
+            "stars": 4756
           }
         }
       ],
@@ -67,7 +67,7 @@
             "last_commit": "2026-08-14T19:16:10Z",
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 52927
+            "stars": 52946
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2025-11-19T14:40:46Z",
             "owner": "SYSTRAN",
             "repo": "faster-whisper",
-            "stars": 24937
+            "stars": 24949
           }
         },
         {
@@ -95,7 +95,7 @@
             "last_commit": "2026-08-09T13:35:47Z",
             "owner": "alphacep",
             "repo": "vosk-api",
-            "stars": 15058
+            "stars": 15061
           }
         },
         {
@@ -141,7 +141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T09:12:02.683Z",
+    "last_updated": "2026-08-17T09:25:28.383Z",
     "original_repository": "primaprashant/awesome-voice-typing",
     "original_repository_sha": "48dd7aea0b1dcca8fb57dc61f56e591364678563",
     "enhanced_repository": "enhansome/enhansome-voice-typing",
