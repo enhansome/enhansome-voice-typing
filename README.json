@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T09:18:28Z",
+            "last_commit": "2026-08-18T00:45:57Z",
             "owner": "cjpais",
             "repo": "Handy",
-            "stars": 29763
+            "stars": 29843
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-16T11:17:19Z",
+            "last_commit": "2026-08-17T14:31:39Z",
             "owner": "Beingpax",
             "repo": "VoiceInk",
-            "stars": 5928
+            "stars": 5956
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T22:27:06Z",
+            "last_commit": "2026-08-18T09:15:18Z",
             "owner": "EpicenterHQ",
             "repo": "epicenter",
-            "stars": 4756
+            "stars": 4759
           }
         }
       ],
@@ -64,10 +64,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T19:16:10Z",
+            "last_commit": "2026-08-18T08:32:29Z",
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 52946
+            "stars": 52979
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2025-11-19T14:40:46Z",
             "owner": "SYSTRAN",
             "repo": "faster-whisper",
-            "stars": 24949
+            "stars": 24967
           }
         },
         {
@@ -95,7 +95,7 @@
             "last_commit": "2026-08-09T13:35:47Z",
             "owner": "alphacep",
             "repo": "vosk-api",
-            "stars": 15061
+            "stars": 15064
           }
         },
         {
@@ -109,7 +109,7 @@
             "last_commit": "2026-08-13T19:17:27Z",
             "owner": "argmaxinc",
             "repo": "argmax-oss-swift",
-            "stars": 6326
+            "stars": 6328
           }
         },
         {
@@ -123,7 +123,7 @@
             "last_commit": "2026-03-17T12:02:10Z",
             "owner": "sindresorhus",
             "repo": "awesome-whisper",
-            "stars": 2371
+            "stars": 2373
           }
         }
       ],
@@ -141,7 +141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T09:25:28.383Z",
+    "last_updated": "2026-08-18T09:16:45.578Z",
     "original_repository": "primaprashant/awesome-voice-typing",
     "original_repository_sha": "48dd7aea0b1dcca8fb57dc61f56e591364678563",
     "enhanced_repository": "enhansome/enhansome-voice-typing",
