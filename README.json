@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 931888694,
             "language": "Rust",
-            "last_commit": "2026-08-18T00:45:57Z",
+            "last_commit": "2026-08-19T06:56:48Z",
             "owner": "cjpais",
             "repo": "Handy",
-            "stars": 29843
+            "stars": 29918
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 875661263,
             "language": "Swift",
-            "last_commit": "2026-08-17T14:31:39Z",
+            "last_commit": "2026-08-19T08:59:31Z",
             "owner": "Beingpax",
             "repo": "VoiceInk",
-            "stars": 5956
+            "stars": 5978
           }
         },
         {
@@ -38,20 +40,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 614695583,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T09:15:18Z",
+            "last_commit": "2026-08-19T08:18:22Z",
             "owner": "EpicenterHQ",
             "repo": "epicenter",
-            "stars": 4759
+            "stars": 4761
           }
         }
       ],
       "title": "Just Tell Me What to Use"
-    },
-    {
-      "description": ": means on-device speech recognition. means the tool supports both local and cloud or BYO-cloud setups.",
-      "items": [],
-      "title": "Directory"
     },
     {
       "description": "Speech recognition engines, models, and APIs that power the tools listed above.",
@@ -63,11 +61,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 541269386,
             "language": "C++",
-            "last_commit": "2026-08-18T08:32:29Z",
+            "last_commit": "2026-08-18T12:33:22Z",
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 52979
+            "stars": 53025
           }
         },
         {
@@ -77,11 +76,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 600368121,
             "language": "Python",
             "last_commit": "2025-11-19T14:40:46Z",
             "owner": "SYSTRAN",
             "repo": "faster-whisper",
-            "stars": 24967
+            "stars": 24985
           }
         },
         {
@@ -91,11 +91,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 206138137,
             "language": "Jupyter Notebook",
             "last_commit": "2026-08-09T13:35:47Z",
             "owner": "alphacep",
             "repo": "vosk-api",
-            "stars": 15064
+            "stars": 15067
           }
         },
         {
@@ -105,11 +106,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 748528018,
             "language": "Swift",
             "last_commit": "2026-08-13T19:17:27Z",
             "owner": "argmaxinc",
             "repo": "argmax-oss-swift",
-            "stars": 6328
+            "stars": 6331
           }
         },
         {
@@ -119,29 +121,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 638900030,
             "language": null,
             "last_commit": "2026-03-17T12:02:10Z",
             "owner": "sindresorhus",
             "repo": "awesome-whisper",
-            "stars": 2373
+            "stars": 2374
           }
         }
       ],
       "title": "Related Projects"
-    },
-    {
-      "description": "See CONTRIBUTING.md for guidelines on adding, updating, or removing entries.",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "MIT",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:16:45.578Z",
+    "last_updated": "2026-08-19T09:17:45.186Z",
     "original_repository": "primaprashant/awesome-voice-typing",
     "original_repository_sha": "48dd7aea0b1dcca8fb57dc61f56e591364678563",
     "enhanced_repository": "enhansome/enhansome-voice-typing",
