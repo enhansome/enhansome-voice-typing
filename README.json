@@ -15,7 +15,7 @@
             "last_commit": "2026-08-19T06:56:48Z",
             "owner": "cjpais",
             "repo": "Handy",
-            "stars": 30034
+            "stars": 30093
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 875661263,
             "language": "Swift",
-            "last_commit": "2026-08-20T02:46:25Z",
+            "last_commit": "2026-08-22T05:54:32Z",
             "owner": "Beingpax",
             "repo": "VoiceInk",
-            "stars": 6022
+            "stars": 6035
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-20T07:44:29Z",
             "owner": "EpicenterHQ",
             "repo": "epicenter",
-            "stars": 4761
+            "stars": 4765
           }
         }
       ],
@@ -63,10 +63,10 @@
             "archived": false,
             "id": 541269386,
             "language": "C++",
-            "last_commit": "2026-08-21T07:57:44Z",
+            "last_commit": "2026-08-22T05:14:12Z",
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 53070
+            "stars": 53096
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2025-11-19T14:40:46Z",
             "owner": "SYSTRAN",
             "repo": "faster-whisper",
-            "stars": 25016
+            "stars": 25027
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-08-09T13:35:47Z",
             "owner": "alphacep",
             "repo": "vosk-api",
-            "stars": 15066
+            "stars": 15067
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2026-08-13T19:17:27Z",
             "owner": "argmaxinc",
             "repo": "argmax-oss-swift",
-            "stars": 6333
+            "stars": 6334
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-03-17T12:02:10Z",
             "owner": "sindresorhus",
             "repo": "awesome-whisper",
-            "stars": 2375
+            "stars": 2376
           }
         }
       ],
@@ -134,7 +134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T09:20:44.177Z",
+    "last_updated": "2026-08-22T09:12:37.417Z",
     "original_repository": "primaprashant/awesome-voice-typing",
     "original_repository_id": 1175111451,
     "original_repository_sha": "48dd7aea0b1dcca8fb57dc61f56e591364678563",
