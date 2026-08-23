@@ -12,10 +12,10 @@
             "archived": false,
             "id": 931888694,
             "language": "Rust",
-            "last_commit": "2026-08-19T06:56:48Z",
+            "last_commit": "2026-08-23T08:47:26Z",
             "owner": "cjpais",
             "repo": "Handy",
-            "stars": 30093
+            "stars": 30133
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 875661263,
             "language": "Swift",
-            "last_commit": "2026-08-22T05:54:32Z",
+            "last_commit": "2026-08-22T13:50:52Z",
             "owner": "Beingpax",
             "repo": "VoiceInk",
-            "stars": 6035
+            "stars": 6055
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-08-22T05:14:12Z",
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 53096
+            "stars": 53113
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2025-11-19T14:40:46Z",
             "owner": "SYSTRAN",
             "repo": "faster-whisper",
-            "stars": 25027
+            "stars": 25046
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-08-09T13:35:47Z",
             "owner": "alphacep",
             "repo": "vosk-api",
-            "stars": 15067
+            "stars": 15066
           }
         },
         {
@@ -134,7 +134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T09:12:37.417Z",
+    "last_updated": "2026-08-23T09:12:25.287Z",
     "original_repository": "primaprashant/awesome-voice-typing",
     "original_repository_id": 1175111451,
     "original_repository_sha": "48dd7aea0b1dcca8fb57dc61f56e591364678563",
