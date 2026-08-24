@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T08:57:57Z",
             "owner": "cjpais",
             "repo": "Handy",
-            "stars": 30194
+            "stars": 30207
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-24T04:28:32Z",
             "owner": "Beingpax",
             "repo": "VoiceInk",
-            "stars": 6074
+            "stars": 6079
           }
         },
         {
@@ -52,6 +52,507 @@
       "title": "Just Tell Me What to Use"
     },
     {
+      "description": ": means on-device speech recognition. means the tool supports both local and cloud or BYO-cloud setups.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Amical",
+          "description": "macOS, Windows Local Whisper Context-aware dictation that adapts formatting to the app you are using.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 980286881,
+            "language": "TypeScript",
+            "last_commit": "2026-08-21T03:09:19Z",
+            "owner": "amicalhq",
+            "repo": "amical",
+            "stars": 1504
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Buzz",
+          "description": "Linux, macOS, Windows Local Whisper, Whisper.cpp, Faster Whisper Desktop app for microphone or file transcription; text stays in its own UI rather than typing into other apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 540842713,
+            "language": "Python",
+            "last_commit": "2026-08-23T16:46:15Z",
+            "owner": "chidiwilliams",
+            "repo": "buzz",
+            "stars": 21106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chirp",
+          "description": "Windows Local Parakeet TDT Dictates into Windows apps, runs on CPU only, and is aimed at locked-down corporate environments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1096034664,
+            "language": "Python",
+            "last_commit": "2026-02-27T23:41:05Z",
+            "owner": "Whamp",
+            "repo": "chirp-stt",
+            "stars": 193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Elograf",
+          "description": "Linux Local Vosk (via nerd-dictation) GUI tray frontend for nerd-dictation with model switching and timeout controls.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 403498168,
+            "language": "Python",
+            "last_commit": "2026-03-01T05:35:57Z",
+            "owner": "papoteur-mga",
+            "repo": "elograf",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Epicenter Whispering",
+          "description": "Linux, macOS, Windows, Web Hybrid Whisper Local-first dictation with a global shortcut and multiple Whisper providers; also available as a Chrome extension and web app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 614695583,
+            "language": "TypeScript",
+            "last_commit": "2026-08-20T07:44:29Z",
+            "owner": "EpicenterHQ",
+            "repo": "epicenter",
+            "stars": 4767
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FluidVoice",
+          "description": "macOS Hybrid Parakeet, Apple Speech, Whisper macOS dictation app that can type into any app and switch between local speech engines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1061327311,
+            "language": "Swift",
+            "last_commit": "2026-08-23T00:02:35Z",
+            "owner": "altic-dev",
+            "repo": "FluidVoice",
+            "stars": 10860
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FnKey",
+          "description": "macOS Hybrid Deepgram Nova-3, Groq Whisper Rust menu bar app that activates the microphone only while holding Fn, with real-time streaming and batch cloud backends.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1109181165,
+            "language": "Rust",
+            "last_commit": "2026-03-23T04:19:47Z",
+            "owner": "evoleinik",
+            "repo": "fnkey",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ghost Pepper",
+          "description": "macOS Local WhisperKit Hold-to-talk menu bar dictation with local LLM cleanup of filler words; runs entirely on Apple Silicon.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1187219063,
+            "language": "Swift",
+            "last_commit": "2026-07-27T14:25:47Z",
+            "owner": "matthartman",
+            "repo": "ghost-pepper",
+            "stars": 3138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Handy",
+          "description": "Linux, macOS, Windows Local Whisper.cpp, Parakeet TDT Shortcut-driven offline dictation built with Tauri and supporting several ASR model families.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 931888694,
+            "language": "Rust",
+            "last_commit": "2026-08-24T08:57:57Z",
+            "owner": "cjpais",
+            "repo": "Handy",
+            "stars": 30207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HNS",
+          "description": "Linux, macOS, Windows Local Faster Whisper CLI tool that records from your mic, transcribes locally, and copies the result to the clipboard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1010999083,
+            "language": "Python",
+            "last_commit": "2026-07-21T12:22:46Z",
+            "owner": "primaprashant",
+            "repo": "hns",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hyprwhspr",
+          "description": "Linux Hybrid Whisper.cpp, Parakeet, BYOK cloud Push-to-talk Linux dictation with a visualizer plus Waybar and systemd integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1045801018,
+            "language": "Python",
+            "last_commit": "2026-08-24T01:18:15Z",
+            "owner": "goodroot",
+            "repo": "hyprwhspr",
+            "stars": 1171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nerd-dictation",
+          "description": "Linux Local Vosk Hackable offline dictation that types into any window via simulated keystrokes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 370752362,
+            "language": "Python",
+            "last_commit": "2025-10-10T10:43:53Z",
+            "owner": "ideasman42",
+            "repo": "nerd-dictation",
+            "stars": 1913
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Offline Voice Input (Android)",
+          "description": "Android Local Parakeet TDT Offline Android voice input keyboard with live subtitles and a privacy-first focus.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1102014224,
+            "language": "Java",
+            "last_commit": "2026-07-19T11:32:25Z",
+            "owner": "notune",
+            "repo": "android_transcribe_app",
+            "stars": 274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OmniDictate",
+          "description": "Windows Local Whisper Desktop dictation tool aimed at type-anywhere workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 957391487,
+            "language": "Python",
+            "last_commit": "2026-07-08T07:10:07Z",
+            "owner": "gurjar1",
+            "repo": "OmniDictate",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenSuperWhisper",
+          "description": "macOS Local Whisper, Parakeet Native Swift menu bar dictation app optimized for Apple Silicon and global shortcuts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 928610758,
+            "language": "Swift",
+            "last_commit": "2026-08-10T19:05:31Z",
+            "owner": "Starmel",
+            "repo": "OpenSuperWhisper",
+            "stars": 2695
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenWhispr",
+          "description": "Linux, macOS, Windows Hybrid Whisper.cpp, Parakeet, BYOK cloud Cross-platform dictation with local models, optional cloud providers, and a custom dictionary.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1004647857,
+            "language": "JavaScript",
+            "last_commit": "2026-08-23T14:57:23Z",
+            "owner": "OpenWhispr",
+            "repo": "openwhispr",
+            "stars": 5691
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pindrop",
+          "description": "macOS Local WhisperKit Offline menu bar dictation app with optional AI-based transcript cleanup.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1142813663,
+            "language": "Swift",
+            "last_commit": "2026-07-22T17:02:37Z",
+            "owner": "watzon",
+            "repo": "pindrop",
+            "stars": 613
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Speak to AI",
+          "description": "Linux Local Whisper.cpp Minimal Linux dictation tool that inserts text into the active window and can also run from the CLI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 970408916,
+            "language": "Go",
+            "last_commit": "2026-08-20T15:49:12Z",
+            "owner": "AshBuk",
+            "repo": "dabri",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tambourine Voice",
+          "description": "macOS, Windows Hybrid Faster Whisper, BYOK cloud Voice interface for any app with configurable STT and LLM providers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1105828602,
+            "language": "Rust",
+            "last_commit": "2026-07-17T20:17:00Z",
+            "owner": "kstonekuan",
+            "repo": "tambourine-voice",
+            "stars": 379
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Transcribro",
+          "description": "Android Local Whisper.cpp Private and on-device speech recognition keyboard and service for Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 772712436,
+            "language": "Kotlin",
+            "last_commit": "2025-08-29T11:14:59Z",
+            "owner": "soupslurpr",
+            "repo": "Transcribro",
+            "stars": 735
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TypeWhisper",
+          "description": "macOS Hybrid Whisper (local and/or cloud) Voice typing app with both local and cloud engine options.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1156604835,
+            "language": "Swift",
+            "last_commit": "2026-08-24T13:26:02Z",
+            "owner": "TypeWhisper",
+            "repo": "typewhisper-mac",
+            "stars": 1723
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vibe",
+          "description": "Linux, macOS, Windows Local Whisper.cpp Desktop app to transcribe audio and video offline using OpenAI Whisper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 740293013,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T09:53:01Z",
+            "owner": "thewh1teagle",
+            "repo": "vibe",
+            "stars": 7182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vocalinux",
+          "description": "Linux Local Whisper.cpp, Whisper, Vosk Linux dictation with distro-specific setup guides and Vulkan acceleration notes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 964931785,
+            "language": "Python",
+            "last_commit": "2026-08-24T12:25:48Z",
+            "owner": "VocaHQ",
+            "repo": "vocalinux",
+            "stars": 776
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VoiceInk",
+          "description": "macOS Hybrid WhisperKit, BYOK Native macOS dictation with per-app tuning, a custom dictionary, and optional commercial distribution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 875661263,
+            "language": "Swift",
+            "last_commit": "2026-08-24T04:28:32Z",
+            "owner": "Beingpax",
+            "repo": "VoiceInk",
+            "stars": 6079
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VoiceTypr",
+          "description": "macOS, Windows Local Whisper-based Voice-to-text dictation built with Tauri; the repository is open source, but binaries require a one-time license purchase.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1014959488,
+            "language": "Rust",
+            "last_commit": "2026-08-23T12:12:16Z",
+            "owner": "moinulmoin",
+            "repo": "voicetypr",
+            "stars": 682
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Voquill",
+          "description": "Linux, macOS, Windows Hybrid Whisper.cpp, BYOK cloud Cross-platform voice typing with a personal glossary and AI-assisted cleanup.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1062210926,
+            "language": "TypeScript",
+            "last_commit": "2026-08-01T16:18:47Z",
+            "owner": "voquill",
+            "repo": "voquill",
+            "stars": 1007
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VOXD",
+          "description": "Linux Local Whisper.cpp Linux dictation with GUI, tray, and CLI modes plus optional LLM post-processing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 961774009,
+            "language": "Python",
+            "last_commit": "2025-10-22T22:45:47Z",
+            "owner": "jakovius",
+            "repo": "voxd",
+            "stars": 290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VoxType",
+          "description": "Linux Hybrid Whisper.cpp, Parakeet, Moonshine, SenseVoice Push-to-talk Linux dictation with seven engine choices, CJK support, and Wayland-optimized text insertion.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1105984666,
+            "language": "Rust",
+            "last_commit": "2026-08-23T19:46:24Z",
+            "owner": "peteonrails",
+            "repo": "voxtype",
+            "stars": 1221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WhisperBoard",
+          "description": "iOS Local Whisper.cpp iOS app for recording speech and producing text with downloadable Whisper models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 581681673,
+            "language": "Swift",
+            "last_commit": "2025-12-18T06:51:44Z",
+            "owner": "Saik0s",
+            "repo": "Whisperboard",
+            "stars": 1093
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Whisper IME",
+          "description": "Android Local Whisper.cpp Android keyboard and standalone app powered by Whisper, fully offline, and available on F-Droid.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 910022509,
+            "language": "Java",
+            "last_commit": "2026-08-04T08:54:54Z",
+            "owner": "woheller69",
+            "repo": "whisperIME",
+            "stars": 623
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "whisper-writer",
+          "description": "Linux, macOS, Windows Hybrid Faster Whisper, OpenAI API Hotkey-driven dictation that auto-types into the active window with several recording modes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 629730614,
+            "language": "Python",
+            "last_commit": "2024-08-24T20:31:15Z",
+            "owner": "savbell",
+            "repo": "whisper-writer",
+            "stars": 1097
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "whisper_dictation",
+          "description": "Linux Local Whisper.cpp Feature-rich Linux voice keyboard with dictation, voice commands, and webcam integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 633282528,
+            "language": "Python",
+            "last_commit": "2026-08-13T08:20:54Z",
+            "owner": "themanyone",
+            "repo": "whisper_dictation",
+            "stars": 293
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yap",
+          "description": "macOS Local Apple Speech Native macOS 26 menu bar dictation using Apple's SpeechAnalyzer for streaming on-device transcription.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1310454527,
+            "language": "Swift",
+            "last_commit": "2026-08-12T16:50:42Z",
+            "owner": "FrigadeHQ",
+            "repo": "yap",
+            "stars": 368
+          }
+        }
+      ],
+      "title": "Directory"
+    },
+    {
       "description": "Speech recognition engines, models, and APIs that power the tools listed above.",
       "items": [
         {
@@ -63,10 +564,10 @@
             "archived": false,
             "id": 541269386,
             "language": "C++",
-            "last_commit": "2026-08-24T06:02:31Z",
+            "last_commit": "2026-08-24T10:36:17Z",
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 53128
+            "stars": 53136
           }
         },
         {
@@ -81,7 +582,7 @@
             "last_commit": "2025-11-19T14:40:46Z",
             "owner": "SYSTRAN",
             "repo": "faster-whisper",
-            "stars": 25057
+            "stars": 25061
           }
         },
         {
@@ -96,7 +597,7 @@
             "last_commit": "2026-08-09T13:35:47Z",
             "owner": "alphacep",
             "repo": "vosk-api",
-            "stars": 15069
+            "stars": 15070
           }
         },
         {
@@ -134,7 +635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:31:57.263Z",
+    "last_updated": "2026-08-24T14:33:37.988Z",
     "original_repository": "primaprashant/awesome-voice-typing",
     "original_repository_id": 1175111451,
     "original_repository_sha": "48dd7aea0b1dcca8fb57dc61f56e591364678563",
