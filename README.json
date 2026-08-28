@@ -15,8 +15,9 @@
             "last_commit": "2026-08-26T07:44:49Z",
             "owner": "cjpais",
             "repo": "Handy",
-            "stars": 30460
-          }
+            "stars": 30527
+          },
+          "first_seen": "2026-08-28T20:25:55.421Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-08-27T17:11:37Z",
             "owner": "Beingpax",
             "repo": "VoiceInk",
-            "stars": 6128
-          }
+            "stars": 6155
+          },
+          "first_seen": "2026-08-28T20:25:55.421Z"
         },
         {
           "node_type": "item",
@@ -42,11 +44,12 @@
             "archived": false,
             "id": 614695583,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T03:43:36Z",
+            "last_commit": "2026-08-28T05:46:48Z",
             "owner": "EpicenterHQ",
             "repo": "epicenter",
-            "stars": 4773
-          }
+            "stars": 4775
+          },
+          "first_seen": "2026-08-28T20:25:55.421Z"
         }
       ],
       "title": "Just Tell Me What to Use"
@@ -66,8 +69,9 @@
             "last_commit": "2026-08-26T21:27:29Z",
             "owner": "amicalhq",
             "repo": "amical",
-            "stars": 1508
-          }
+            "stars": 1512
+          },
+          "first_seen": "2026-08-28T20:25:55.421Z"
         },
         {
           "node_type": "item",
@@ -78,11 +82,12 @@
             "archived": false,
             "id": 540842713,
             "language": "Python",
-            "last_commit": "2026-08-23T16:46:15Z",
+            "last_commit": "2026-08-28T16:01:40Z",
             "owner": "chidiwilliams",
             "repo": "buzz",
-            "stars": 21162
-          }
+            "stars": 21176
+          },
+          "first_seen": "2026-08-28T20:25:55.421Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "Whamp",
             "repo": "chirp-stt",
             "stars": 193
-          }
+          },
+          "first_seen": "2026-08-28T20:25:55.421Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "papoteur-mga",
             "repo": "elograf",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T20:25:55.421Z"
         },
         {
           "node_type": "item",
@@ -123,11 +130,12 @@
             "archived": false,
             "id": 614695583,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T03:43:36Z",
+            "last_commit": "2026-08-28T05:46:48Z",
             "owner": "EpicenterHQ",
             "repo": "epicenter",
-            "stars": 4773
-          }
+            "stars": 4775
+          },
+          "first_seen": "2026-08-28T20:25:55.421Z"
         },
         {
           "node_type": "item",
@@ -138,11 +146,12 @@
             "archived": false,
             "id": 1061327311,
             "language": "Swift",
-            "last_commit": "2026-08-27T18:21:12Z",
+            "last_commit": "2026-08-28T08:20:14Z",
             "owner": "altic-dev",
             "repo": "FluidVoice",
-            "stars": 10971
-          }
+            "stars": 11025
+          },
+          "first_seen": "2026-08-28T20:25:55.421Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "evoleinik",
             "repo": "fnkey",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T20:25:55.421Z"
         },
         {
           "node_type": "item",
@@ -171,8 +181,9 @@
             "last_commit": "2026-07-27T14:25:47Z",
             "owner": "matthartman",
             "repo": "ghost-pepper",
-            "stars": 3142
-          }
+            "stars": 3145
+          },
+          "first_seen": "2026-08-28T20:25:55.421Z"
         },
         {
           "node_type": "item",
@@ -186,8 +197,9 @@
             "last_commit": "2026-08-26T07:44:49Z",
             "owner": "cjpais",
             "repo": "Handy",
-            "stars": 30460
-          }
+            "stars": 30527
+          },
+          "first_seen": "2026-08-28T20:25:55.421Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "primaprashant",
             "repo": "hns",
             "stars": 116
-          }
+          },
+          "first_seen": "2026-08-28T20:25:55.421Z"
         },
         {
           "node_type": "item",
@@ -213,11 +226,12 @@
             "archived": false,
             "id": 1045801018,
             "language": "Python",
-            "last_commit": "2026-08-26T17:24:11Z",
+            "last_commit": "2026-08-28T01:05:43Z",
             "owner": "goodroot",
             "repo": "hyprwhspr",
-            "stars": 1176
-          }
+            "stars": 1178
+          },
+          "first_seen": "2026-08-28T20:25:55.421Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "ideasman42",
             "repo": "nerd-dictation",
             "stars": 1913
-          }
+          },
+          "first_seen": "2026-08-28T20:25:55.421Z"
         },
         {
           "node_type": "item",
@@ -246,8 +261,9 @@
             "last_commit": "2026-07-19T11:32:25Z",
             "owner": "notune",
             "repo": "android_transcribe_app",
-            "stars": 278
-          }
+            "stars": 281
+          },
+          "first_seen": "2026-08-28T20:25:55.421Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "gurjar1",
             "repo": "OmniDictate",
             "stars": 151
-          }
+          },
+          "first_seen": "2026-08-28T20:25:55.421Z"
         },
         {
           "node_type": "item",
@@ -276,8 +293,9 @@
             "last_commit": "2026-08-10T19:05:31Z",
             "owner": "Starmel",
             "repo": "OpenSuperWhisper",
-            "stars": 2727
-          }
+            "stars": 2732
+          },
+          "first_seen": "2026-08-28T20:25:55.421Z"
         },
         {
           "node_type": "item",
@@ -288,11 +306,12 @@
             "archived": false,
             "id": 1004647857,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T19:05:39Z",
+            "last_commit": "2026-08-27T22:32:09Z",
             "owner": "OpenWhispr",
             "repo": "openwhispr",
-            "stars": 5781
-          }
+            "stars": 5809
+          },
+          "first_seen": "2026-08-28T20:25:55.421Z"
         },
         {
           "node_type": "item",
@@ -306,8 +325,9 @@
             "last_commit": "2026-07-22T17:02:37Z",
             "owner": "watzon",
             "repo": "pindrop",
-            "stars": 616
-          }
+            "stars": 617
+          },
+          "first_seen": "2026-08-28T20:25:55.421Z"
         },
         {
           "node_type": "item",
@@ -322,7 +342,8 @@
             "owner": "AshBuk",
             "repo": "dabri",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-28T20:25:55.421Z"
         },
         {
           "node_type": "item",
@@ -337,7 +358,8 @@
             "owner": "kstonekuan",
             "repo": "tambourine-voice",
             "stars": 380
-          }
+          },
+          "first_seen": "2026-08-28T20:25:55.421Z"
         },
         {
           "node_type": "item",
@@ -352,7 +374,8 @@
             "owner": "soupslurpr",
             "repo": "Transcribro",
             "stars": 739
-          }
+          },
+          "first_seen": "2026-08-28T20:25:55.421Z"
         },
         {
           "node_type": "item",
@@ -363,11 +386,12 @@
             "archived": false,
             "id": 1156604835,
             "language": "Swift",
-            "last_commit": "2026-08-27T16:40:25Z",
+            "last_commit": "2026-08-28T17:40:02Z",
             "owner": "TypeWhisper",
             "repo": "typewhisper-mac",
-            "stars": 1737
-          }
+            "stars": 1744
+          },
+          "first_seen": "2026-08-28T20:25:55.421Z"
         },
         {
           "node_type": "item",
@@ -378,11 +402,12 @@
             "archived": false,
             "id": 740293013,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T19:07:13Z",
+            "last_commit": "2026-08-28T17:44:34Z",
             "owner": "thewh1teagle",
             "repo": "vibe",
-            "stars": 7216
-          }
+            "stars": 7223
+          },
+          "first_seen": "2026-08-28T20:25:55.421Z"
         },
         {
           "node_type": "item",
@@ -393,11 +418,12 @@
             "archived": false,
             "id": 964931785,
             "language": "Python",
-            "last_commit": "2026-08-27T12:44:55Z",
+            "last_commit": "2026-08-28T18:36:39Z",
             "owner": "VocaHQ",
             "repo": "vocalinux",
-            "stars": 783
-          }
+            "stars": 785
+          },
+          "first_seen": "2026-08-28T20:25:55.421Z"
         },
         {
           "node_type": "item",
@@ -411,8 +437,9 @@
             "last_commit": "2026-08-27T17:11:37Z",
             "owner": "Beingpax",
             "repo": "VoiceInk",
-            "stars": 6128
-          }
+            "stars": 6155
+          },
+          "first_seen": "2026-08-28T20:25:55.421Z"
         },
         {
           "node_type": "item",
@@ -423,11 +450,12 @@
             "archived": false,
             "id": 1014959488,
             "language": "Rust",
-            "last_commit": "2026-08-27T13:37:42Z",
+            "last_commit": "2026-08-27T23:28:53Z",
             "owner": "moinulmoin",
             "repo": "voicetypr",
-            "stars": 692
-          }
+            "stars": 695
+          },
+          "first_seen": "2026-08-28T20:25:55.421Z"
         },
         {
           "node_type": "item",
@@ -442,7 +470,8 @@
             "owner": "voquill",
             "repo": "voquill",
             "stars": 1008
-          }
+          },
+          "first_seen": "2026-08-28T20:25:55.421Z"
         },
         {
           "node_type": "item",
@@ -457,7 +486,8 @@
             "owner": "jakovius",
             "repo": "voxd",
             "stars": 293
-          }
+          },
+          "first_seen": "2026-08-28T20:25:55.421Z"
         },
         {
           "node_type": "item",
@@ -468,11 +498,12 @@
             "archived": false,
             "id": 1105984666,
             "language": "Rust",
-            "last_commit": "2026-08-27T18:37:24Z",
+            "last_commit": "2026-08-28T13:53:03Z",
             "owner": "peteonrails",
             "repo": "voxtype",
-            "stars": 1271
-          }
+            "stars": 1292
+          },
+          "first_seen": "2026-08-28T20:25:55.421Z"
         },
         {
           "node_type": "item",
@@ -487,7 +518,8 @@
             "owner": "Saik0s",
             "repo": "Whisperboard",
             "stars": 1094
-          }
+          },
+          "first_seen": "2026-08-28T20:25:55.421Z"
         },
         {
           "node_type": "item",
@@ -501,8 +533,9 @@
             "last_commit": "2026-08-27T10:18:26Z",
             "owner": "woheller69",
             "repo": "whisperIME",
-            "stars": 627
-          }
+            "stars": 626
+          },
+          "first_seen": "2026-08-28T20:25:55.421Z"
         },
         {
           "node_type": "item",
@@ -517,7 +550,8 @@
             "owner": "savbell",
             "repo": "whisper-writer",
             "stars": 1097
-          }
+          },
+          "first_seen": "2026-08-28T20:25:55.421Z"
         },
         {
           "node_type": "item",
@@ -532,7 +566,8 @@
             "owner": "themanyone",
             "repo": "whisper_dictation",
             "stars": 293
-          }
+          },
+          "first_seen": "2026-08-28T20:25:55.421Z"
         },
         {
           "node_type": "item",
@@ -546,8 +581,9 @@
             "last_commit": "2026-08-12T16:50:42Z",
             "owner": "FrigadeHQ",
             "repo": "yap",
-            "stars": 372
-          }
+            "stars": 373
+          },
+          "first_seen": "2026-08-28T20:25:55.421Z"
         }
       ],
       "title": "Directory"
@@ -567,8 +603,9 @@
             "last_commit": "2026-08-25T13:11:32Z",
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 53233
-          }
+            "stars": 53260
+          },
+          "first_seen": "2026-08-28T20:25:55.421Z"
         },
         {
           "node_type": "item",
@@ -582,8 +619,9 @@
             "last_commit": "2025-11-19T14:40:46Z",
             "owner": "SYSTRAN",
             "repo": "faster-whisper",
-            "stars": 25114
-          }
+            "stars": 25127
+          },
+          "first_seen": "2026-08-28T20:25:55.421Z"
         },
         {
           "node_type": "item",
@@ -597,8 +635,9 @@
             "last_commit": "2026-08-09T13:35:47Z",
             "owner": "alphacep",
             "repo": "vosk-api",
-            "stars": 15080
-          }
+            "stars": 15082
+          },
+          "first_seen": "2026-08-28T20:25:55.421Z"
         },
         {
           "node_type": "item",
@@ -612,8 +651,9 @@
             "last_commit": "2026-08-13T19:17:27Z",
             "owner": "argmaxinc",
             "repo": "argmax-oss-swift",
-            "stars": 6339
-          }
+            "stars": 6340
+          },
+          "first_seen": "2026-08-28T20:25:55.421Z"
         },
         {
           "node_type": "item",
@@ -628,14 +668,15 @@
             "owner": "sindresorhus",
             "repo": "awesome-whisper",
             "stars": 2374
-          }
+          },
+          "first_seen": "2026-08-28T20:25:55.421Z"
         }
       ],
       "title": "Related Projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:16:38.271Z",
+    "last_updated": "2026-08-28T20:25:55.421Z",
     "original_repository_info": {
       "archived": false,
       "id": 1175111451,
