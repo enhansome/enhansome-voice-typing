@@ -19,7 +19,7 @@
             "open_issues": 163,
             "owner": "cjpais",
             "repo": "Handy",
-            "stars": 30574,
+            "stars": 30606,
             "topics": [
               "accessibility",
               "cross-platform",
@@ -45,7 +45,7 @@
             "open_issues": 119,
             "owner": "Beingpax",
             "repo": "VoiceInk",
-            "stars": 6160,
+            "stars": 6164,
             "topics": [
               "macos",
               "macos-app",
@@ -66,7 +66,7 @@
             "id": 614695583,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-28T05:46:48Z",
+            "last_commit": "2026-08-29T07:06:31Z",
             "open_issues": 207,
             "owner": "EpicenterHQ",
             "repo": "epicenter",
@@ -99,10 +99,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-26T21:27:29Z",
-            "open_issues": 56,
+            "open_issues": 55,
             "owner": "amicalhq",
             "repo": "amical",
-            "stars": 1512,
+            "stars": 1513,
             "topics": [
               "ai",
               "ai-note-taking-app",
@@ -143,7 +143,7 @@
             "open_issues": 18,
             "owner": "chidiwilliams",
             "repo": "buzz",
-            "stars": 21180,
+            "stars": 21185,
             "topics": [
               "whisper"
             ]
@@ -208,7 +208,7 @@
             "id": 614695583,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-28T05:46:48Z",
+            "last_commit": "2026-08-29T07:06:31Z",
             "open_issues": 207,
             "owner": "EpicenterHQ",
             "repo": "epicenter",
@@ -235,10 +235,10 @@
             "language": "Swift",
             "license": "GPL-3.0",
             "last_commit": "2026-08-28T08:20:14Z",
-            "open_issues": 88,
+            "open_issues": 87,
             "owner": "altic-dev",
             "repo": "FluidVoice",
-            "stars": 11042,
+            "stars": 11049,
             "topics": [
               "ai",
               "dictation",
@@ -322,7 +322,7 @@
             "open_issues": 163,
             "owner": "cjpais",
             "repo": "Handy",
-            "stars": 30574,
+            "stars": 30606,
             "topics": [
               "accessibility",
               "cross-platform",
@@ -376,7 +376,7 @@
             "open_issues": 1,
             "owner": "goodroot",
             "repo": "hyprwhspr",
-            "stars": 1178,
+            "stars": 1179,
             "topics": [
               "ai",
               "archlinux",
@@ -492,7 +492,7 @@
             "open_issues": 87,
             "owner": "Starmel",
             "repo": "OpenSuperWhisper",
-            "stars": 2734,
+            "stars": 2736,
             "topics": [
               "dictation",
               "macos",
@@ -514,11 +514,11 @@
             "id": 1004647857,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-27T22:32:09Z",
-            "open_issues": 289,
+            "last_commit": "2026-08-29T12:36:35Z",
+            "open_issues": 297,
             "owner": "OpenWhispr",
             "repo": "openwhispr",
-            "stars": 5819,
+            "stars": 5823,
             "topics": [
               "ai",
               "anthropic",
@@ -654,7 +654,7 @@
             "open_issues": 21,
             "owner": "soupslurpr",
             "repo": "Transcribro",
-            "stars": 739,
+            "stars": 741,
             "topics": [
               "android",
               "jetpack-compose",
@@ -682,11 +682,11 @@
             "id": 1156604835,
             "language": "Swift",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-28T17:40:02Z",
+            "last_commit": "2026-08-29T11:45:57Z",
             "open_issues": 69,
             "owner": "TypeWhisper",
             "repo": "typewhisper-mac",
-            "stars": 1745,
+            "stars": 1747,
             "topics": [
               "apple-silicon",
               "dictation",
@@ -718,7 +718,7 @@
             "open_issues": 134,
             "owner": "thewh1teagle",
             "repo": "vibe",
-            "stars": 7225,
+            "stars": 7227,
             "topics": [
               "ai",
               "cross-platform",
@@ -743,8 +743,8 @@
             "id": 964931785,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-28T23:11:38Z",
-            "open_issues": 60,
+            "last_commit": "2026-08-29T08:53:37Z",
+            "open_issues": 52,
             "owner": "VocaHQ",
             "repo": "vocalinux",
             "stars": 785,
@@ -784,7 +784,7 @@
             "open_issues": 119,
             "owner": "Beingpax",
             "repo": "VoiceInk",
-            "stars": 6160,
+            "stars": 6164,
             "topics": [
               "macos",
               "macos-app",
@@ -809,7 +809,7 @@
             "open_issues": 6,
             "owner": "moinulmoin",
             "repo": "voicetypr",
-            "stars": 695,
+            "stars": 696,
             "topics": [
               "reactjs",
               "shadcn-ui",
@@ -897,11 +897,11 @@
             "id": 1105984666,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-28T13:53:03Z",
-            "open_issues": 132,
+            "last_commit": "2026-08-29T13:04:35Z",
+            "open_issues": 133,
             "owner": "peteonrails",
             "repo": "voxtype",
-            "stars": 1294,
+            "stars": 1296,
             "topics": [
               "accessibility",
               "dictation",
@@ -974,7 +974,7 @@
             "open_issues": 21,
             "owner": "woheller69",
             "repo": "whisperIME",
-            "stars": 626,
+            "stars": 627,
             "topics": [
               "android",
               "on-device-ai",
@@ -1003,7 +1003,7 @@
             "open_issues": 85,
             "owner": "savbell",
             "repo": "whisper-writer",
-            "stars": 1097,
+            "stars": 1098,
             "topics": [
               "dictation",
               "faster-whisper",
@@ -1120,7 +1120,7 @@
             "open_issues": 1238,
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 53262,
+            "stars": 53274,
             "topics": [
               "inference",
               "openai",
@@ -1148,7 +1148,7 @@
             "open_issues": 319,
             "owner": "SYSTRAN",
             "repo": "faster-whisper",
-            "stars": 25129,
+            "stars": 25132,
             "topics": [
               "deep-learning",
               "inference",
@@ -1178,7 +1178,7 @@
             "open_issues": 602,
             "owner": "alphacep",
             "repo": "vosk-api",
-            "stars": 15083,
+            "stars": 15084,
             "topics": [
               "android",
               "asr",
@@ -1220,7 +1220,7 @@
             "open_issues": 136,
             "owner": "argmaxinc",
             "repo": "argmax-oss-swift",
-            "stars": 6342,
+            "stars": 6345,
             "topics": [
               "inference",
               "ios",
@@ -1276,7 +1276,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:52:06.609Z",
+    "last_updated": "2026-08-29T14:01:18.568Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of open-source speech-to-text and voice typing tools for Linux, macOS, Windows, Android, and iOS. Offline, local, and cloud.",
