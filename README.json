@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-15T05:29:10Z",
-            "open_issues": 165,
+            "open_issues": 167,
             "owner": "cjpais",
             "repo": "Handy",
-            "stars": 31754,
+            "stars": 31831,
             "topics": [
               "accessibility",
               "cross-platform",
@@ -41,11 +41,133 @@
             "id": 875661263,
             "language": "Swift",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-16T08:54:31Z",
-            "open_issues": 133,
+            "last_commit": "2026-09-17T08:49:47Z",
+            "open_issues": 138,
             "owner": "Beingpax",
             "repo": "VoiceInk",
-            "stars": 6429,
+            "stars": 6436,
+            "topics": [
+              "macos",
+              "macos-app",
+              "swift"
+            ]
+          },
+          "first_seen": "2026-08-28T20:25:55.421Z"
+        }
+      ],
+      "title": "Just Tell Me What to Use"
+    },
+    {
+      "description": "Based on stars gained in the last 30 days | Last updated: 2026-09-17",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenWhispr",
+          "description": "2,798 8,292 50.9%",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
+            "homepage": "https://openwhispr.com",
+            "id": 1004647857,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-09-17T10:59:20Z",
+            "open_issues": 324,
+            "owner": "OpenWhispr",
+            "repo": "openwhispr",
+            "stars": 8302,
+            "topics": [
+              "ai",
+              "anthropic",
+              "cross-platform",
+              "gemini",
+              "groq",
+              "linux",
+              "macos",
+              "nvidia",
+              "open-source",
+              "openai",
+              "parakeet",
+              "speech-to-text",
+              "transcribe",
+              "whisper",
+              "windows"
+            ]
+          },
+          "first_seen": "2026-08-28T20:25:55.421Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Handy",
+          "description": "2,040 31,796 6.9%",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+            "homepage": "https://handy.computer",
+            "id": 931888694,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-09-15T05:29:10Z",
+            "open_issues": 167,
+            "owner": "cjpais",
+            "repo": "Handy",
+            "stars": 31831,
+            "topics": [
+              "accessibility",
+              "cross-platform",
+              "speech-to-text",
+              "tauri-v2"
+            ]
+          },
+          "first_seen": "2026-08-28T20:25:55.421Z"
+        },
+        {
+          "node_type": "item",
+          "title": "FluidVoice",
+          "description": "1,045 11,595 9.9%",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows pre-build available! A local Wispr Flow alternative. DM us on X exclusive model access! 😉 - https://x.com/fluidvoiceapp",
+            "homepage": "https://altic.dev/fluid",
+            "id": 1061327311,
+            "language": "Swift",
+            "license": "GPL-3.0",
+            "last_commit": "2026-09-17T09:32:44Z",
+            "open_issues": 89,
+            "owner": "altic-dev",
+            "repo": "FluidVoice",
+            "stars": 11606,
+            "topics": [
+              "ai",
+              "dictation",
+              "ios",
+              "llama-cpp",
+              "macos",
+              "swift"
+            ]
+          },
+          "first_seen": "2026-08-28T20:25:55.421Z"
+        },
+        {
+          "node_type": "item",
+          "title": "VoiceInk",
+          "description": "492 6,436 8.3%",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no subscription",
+            "homepage": "https://tryvoiceink.com",
+            "id": 875661263,
+            "language": "Swift",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-17T08:49:47Z",
+            "open_issues": 138,
+            "owner": "Beingpax",
+            "repo": "VoiceInk",
+            "stars": 6436,
             "topics": [
               "macos",
               "macos-app",
@@ -56,35 +178,47 @@
         },
         {
           "node_type": "item",
-          "title": "Want cloud providers or AI transformations on top: Whispering",
-          "description": "or OpenWhispr.",
+          "title": "OpenLess",
+          "description": "425 3,552 13.6%",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Open-source, local-first apps.",
-            "homepage": "https://epicenter.so/",
-            "id": 614695583,
-            "language": "TypeScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-09-08T08:38:26Z",
-            "open_issues": 210,
-            "owner": "EpicenterHQ",
-            "repo": "epicenter",
-            "stars": 4799,
+            "description": "Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)",
+            "homepage": "https://github.com/appergb/openless",
+            "id": 1222252809,
+            "language": "Rust",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-09-16T14:22:49Z",
+            "open_issues": 36,
+            "owner": "Open-Less",
+            "repo": "openless",
+            "stars": 3555,
             "topics": [
-              "svelte",
-              "sveltekit",
-              "tailwindcss",
-              "tauri"
+              "ai-prompt",
+              "asr",
+              "dictation",
+              "linux",
+              "llm",
+              "macos",
+              "open-source",
+              "prompt-engineering",
+              "rust",
+              "speech-to-text",
+              "tauri",
+              "typeless",
+              "typeless-alternative",
+              "voice-input",
+              "windows",
+              "wispr-flow-alternative"
             ]
           },
-          "first_seen": "2026-08-28T20:25:55.421Z"
+          "first_seen": "2026-09-17T13:48:32.527Z"
         }
       ],
-      "title": "Just Tell Me What to Use"
+      "title": "Trending Voice Typing Tools"
     },
     {
-      "description": ": means on-device speech recognition. means the tool supports both local and cloud or BYO-cloud setups.",
+      "description": ": means on-device speech recognition. means the tool supports both local and cloud or BYO-cloud setups. means speech recognition requires a remote service.",
       "items": [
         {
           "node_type": "item",
@@ -102,7 +236,7 @@
             "open_issues": 58,
             "owner": "amicalhq",
             "repo": "amical",
-            "stars": 1530,
+            "stars": 1531,
             "topics": [
               "ai",
               "ai-note-taking-app",
@@ -129,26 +263,35 @@
         },
         {
           "node_type": "item",
-          "title": "Buzz",
-          "description": "Linux, macOS, Windows Local Whisper, Whisper.cpp, Faster Whisper Desktop app for microphone or file transcription; text stays in its own UI rather than typing into other apps.",
+          "title": "BiBi Keyboard",
+          "description": "Android Hybrid SenseVoice, FunASR Nano, Qwen3-ASR, Parakeet, BYOK cloud Voice input keyboard with optional text cleanup and a floating recorder that inserts text into other apps.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.",
-            "homepage": "https://chidiwilliams.github.io/buzz",
-            "id": 540842713,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-09-12T17:42:39Z",
-            "open_issues": 19,
-            "owner": "chidiwilliams",
-            "repo": "buzz",
-            "stars": 21524,
+            "description": "说点啥（BiBi Keyboard）:一个基于 Kotlin 的 Android 平台的 LLM 与 ASR 语音输入法键盘应用  An LLM ASR voice input method keyboard application for the Android platform based on Kotlin",
+            "homepage": "https://bibi.brycewg.com",
+            "id": 1070665896,
+            "language": "Kotlin",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-17T13:06:36Z",
+            "open_issues": 13,
+            "owner": "BryceWG",
+            "repo": "BiBi-Keyboard",
+            "stars": 793,
             "topics": [
+              "android-app",
+              "asr",
+              "doubao",
+              "elevenlabs",
+              "keyboard",
+              "kotlin",
+              "llm",
+              "qwen-asr",
+              "speech-to-text",
               "whisper"
             ]
           },
-          "first_seen": "2026-08-28T20:25:55.421Z"
+          "first_seen": "2026-09-17T13:48:32.527Z"
         },
         {
           "node_type": "item",
@@ -163,10 +306,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-14T14:43:43Z",
-            "open_issues": 209,
+            "open_issues": 210,
             "owner": "HaujetZhao",
             "repo": "CapsWriter-Offline",
-            "stars": 6810,
+            "stars": 6816,
             "topics": []
           },
           "first_seen": "2026-09-08T13:05:42.624Z"
@@ -191,6 +334,70 @@
             "topics": []
           },
           "first_seen": "2026-08-28T20:25:55.421Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Clovy",
+          "description": "macOS Cloud Parakeet TDT, GPT-4o Transcribe Push-to-talk or hands-free dictation with text cleanup, writing styles, and automatic paste into the previous app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Private AI on your Mac. Chat, dictation, meeting notes, and a local agent in one open source workspace.",
+            "homepage": "https://opensoftware.co/clovy",
+            "id": 1243365944,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-09-14T16:09:04Z",
+            "open_issues": 137,
+            "owner": "open-software-network",
+            "repo": "os-clovy",
+            "stars": 356,
+            "topics": [
+              "ai",
+              "ai-agent",
+              "dictation",
+              "local-first",
+              "macos",
+              "meeting-notes",
+              "privacy",
+              "tauri"
+            ]
+          },
+          "first_seen": "2026-09-17T13:48:32.527Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Dictate Keyboard",
+          "description": "Android, Wear OS Hybrid Whisper, Parakeet, Canary, BYOK cloud Android keyboard with offline and streaming dictation, a floating input button, and configurable text rewriting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A powerful Whisper AI keyboard for reliable speech transcription",
+            "homepage": "https://dictatekeyboard.com",
+            "id": 807605392,
+            "language": "Kotlin",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-17T09:09:59Z",
+            "open_issues": 30,
+            "owner": "DevEmperor",
+            "repo": "DictateKeyboard",
+            "stars": 282,
+            "topics": [
+              "ai",
+              "android",
+              "claude",
+              "dictation",
+              "gpt",
+              "keyboard",
+              "keyboards",
+              "openai",
+              "openai-api",
+              "transcription",
+              "whisper",
+              "whisper-ai"
+            ]
+          },
+          "first_seen": "2026-09-17T13:48:32.527Z"
         },
         {
           "node_type": "item",
@@ -233,7 +440,7 @@
             "open_issues": 210,
             "owner": "EpicenterHQ",
             "repo": "epicenter",
-            "stars": 4799,
+            "stars": 4801,
             "topics": [
               "svelte",
               "sveltekit",
@@ -242,6 +449,35 @@
             ]
           },
           "first_seen": "2026-08-28T20:25:55.421Z"
+        },
+        {
+          "node_type": "item",
+          "title": "fcitx5-vinput",
+          "description": "Linux Hybrid sherpa-onnx, BYOK cloud Fcitx5 voice input with push-to-talk and toggle modes, hotwords, and optional text rewriting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Voice input for Fcitx5 — local and cloud ASR, LLM rewriting, cross-distro packages",
+            "homepage": "https://xifan2333.github.io/fcitx5-vinput/",
+            "id": 1174348341,
+            "language": "C++",
+            "license": "GPL-3.0",
+            "last_commit": "2026-09-15T21:33:10Z",
+            "open_issues": 0,
+            "owner": "xifan2333",
+            "repo": "fcitx5-vinput",
+            "stars": 433,
+            "topics": [
+              "fcitx5",
+              "input-method",
+              "linux",
+              "offline-asr",
+              "sherpa-onnx",
+              "speech-recognition",
+              "voice-input"
+            ]
+          },
+          "first_seen": "2026-09-17T13:48:32.527Z"
         },
         {
           "node_type": "item",
@@ -255,11 +491,11 @@
             "id": 1061327311,
             "language": "Swift",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-16T05:07:15Z",
+            "last_commit": "2026-09-17T09:32:44Z",
             "open_issues": 89,
             "owner": "altic-dev",
             "repo": "FluidVoice",
-            "stars": 11574,
+            "stars": 11606,
             "topics": [
               "ai",
               "dictation",
@@ -308,6 +544,35 @@
         },
         {
           "node_type": "item",
+          "title": "Freestyle",
+          "description": "Linux, macOS, Windows Hybrid Whisper.cpp, Qwen3-ASR, SenseVoice, Parakeet, BYOK cloud Hotkey dictation with automatic paste, custom vocabulary, and app-specific formatting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An intelligent voice companion for dictation, writing, and proactive reminders",
+            "homepage": "https://freestylevoice.com",
+            "id": 1248742343,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-09-10T08:22:57Z",
+            "open_issues": 3,
+            "owner": "freestyle-voice",
+            "repo": "freestyle",
+            "stars": 484,
+            "topics": [
+              "dictation",
+              "dictation-app",
+              "dictation-tool",
+              "translation",
+              "translation-tool",
+              "writing-assistant",
+              "writing-tool"
+            ]
+          },
+          "first_seen": "2026-09-17T13:48:32.527Z"
+        },
+        {
+          "node_type": "item",
           "title": "Ghost Pepper",
           "description": "macOS Local WhisperKit Hold-to-talk menu bar dictation with local LLM cleanup of filler words; runs entirely on Apple Silicon.",
           "children": [],
@@ -322,7 +587,7 @@
             "open_issues": 68,
             "owner": "matthartman",
             "repo": "ghost-pepper",
-            "stars": 3182,
+            "stars": 3183,
             "topics": []
           },
           "first_seen": "2026-08-28T20:25:55.421Z"
@@ -380,10 +645,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-15T05:29:10Z",
-            "open_issues": 165,
+            "open_issues": 167,
             "owner": "cjpais",
             "repo": "Handy",
-            "stars": 31754,
+            "stars": 31831,
             "topics": [
               "accessibility",
               "cross-platform",
@@ -405,11 +670,11 @@
             "id": 1010999083,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-06T00:53:48Z",
+            "last_commit": "2026-09-16T14:14:00Z",
             "open_issues": 4,
             "owner": "primaprashant",
             "repo": "hns",
-            "stars": 116,
+            "stars": 117,
             "topics": [
               "cli",
               "clipboard",
@@ -433,11 +698,11 @@
             "id": 1045801018,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-16T03:05:45Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-16T21:04:58Z",
+            "open_issues": 3,
             "owner": "goodroot",
             "repo": "hyprwhspr",
-            "stars": 1200,
+            "stars": 1201,
             "topics": [
               "ai",
               "archlinux",
@@ -462,6 +727,123 @@
             ]
           },
           "first_seen": "2026-08-28T20:25:55.421Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Koe",
+          "description": "macOS Hybrid Apple Speech, Qwen3-ASR, Zipformer, BYOK cloud Apple Silicon dictation with automatic paste, configurable text correction, and a plain-text dictionary.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A background-first macOS voice input tool. Press a hotkey, speak, and the corrected text is pasted into whatever app you're using.",
+            "homepage": "https://koe.li",
+            "id": 1188142532,
+            "language": "Objective-C",
+            "license": "MIT",
+            "last_commit": "2026-08-31T12:35:54Z",
+            "open_issues": 0,
+            "owner": "missuo",
+            "repo": "koe",
+            "stars": 429,
+            "topics": []
+          },
+          "first_seen": "2026-09-17T13:48:32.527Z"
+        },
+        {
+          "node_type": "item",
+          "title": "MacParakeet",
+          "description": "macOS Local Parakeet, WhisperKit, Nemotron, Cohere Transcribe Apple Silicon dictation with push-to-talk and hands-free modes, custom word replacements, and automatic paste.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Fast, private, local-first voice app for Apple Silicon Macs — dictation, file/media transcription, meeting recording, Transforms, and a public automation CLI. Free and open-source.",
+            "homepage": "https://macparakeet.com",
+            "id": 1154251927,
+            "language": "Swift",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-17T13:32:28Z",
+            "open_issues": 78,
+            "owner": "moona3k",
+            "repo": "macparakeet",
+            "stars": 652,
+            "topics": [
+              "apple-silicon",
+              "dictation",
+              "local-first",
+              "macos",
+              "meeting-recording",
+              "neural-engine",
+              "open-source",
+              "parakeet",
+              "privacy",
+              "speech-to-text",
+              "swift",
+              "transcription"
+            ]
+          },
+          "first_seen": "2026-09-17T13:48:32.527Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Muesli",
+          "description": "macOS Hybrid Parakeet, WhisperKit, Qwen3-ASR, BYOK cloud Hold-to-talk or hands-free dictation with a personal dictionary and optional transcript cleanup.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Muesli: agent-native local meeting transcription + dictation for macOS (Granola + WisprFlow alternative)",
+            "homepage": "https://muesli.works",
+            "id": 1173545104,
+            "language": "Swift",
+            "license": "MIT",
+            "last_commit": "2026-09-16T12:06:06Z",
+            "open_issues": 93,
+            "owner": "Muesli-HQ",
+            "repo": "muesli",
+            "stars": 1260,
+            "topics": [
+              "agents",
+              "apple-silicon",
+              "dictation",
+              "macos",
+              "meeting-assistant",
+              "meeting-notes",
+              "on-device-ai",
+              "privacy-first",
+              "speech-to-text",
+              "transcription"
+            ]
+          },
+          "first_seen": "2026-09-17T13:48:32.527Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Murmure",
+          "description": "Linux, macOS, Windows Local Parakeet TDT Offline dictation with a custom dictionary and optional local LLM processing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Fully local, private and cross platform Speech-to-Text with LLM Post-processing",
+            "homepage": "https://www.murmure.app",
+            "id": 1074951038,
+            "language": "Rust",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-09-16T10:26:39Z",
+            "open_issues": 37,
+            "owner": "Kieirra",
+            "repo": "murmure",
+            "stars": 1070,
+            "topics": [
+              "asr",
+              "asr-model",
+              "debian-packages",
+              "linux",
+              "macos",
+              "privacy",
+              "speech-to-text",
+              "windows"
+            ]
+          },
+          "first_seen": "2026-09-17T13:48:32.527Z"
         },
         {
           "node_type": "item",
@@ -497,45 +879,51 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-07-19T11:32:25Z",
-            "open_issues": 49,
+            "open_issues": 50,
             "owner": "notune",
             "repo": "android_transcribe_app",
-            "stars": 299,
+            "stars": 300,
             "topics": []
           },
           "first_seen": "2026-08-28T20:25:55.421Z"
         },
         {
           "node_type": "item",
-          "title": "OmniDictate",
-          "description": "Windows Local Whisper Desktop dictation tool aimed at type-anywhere workflows.",
+          "title": "OpenLess",
+          "description": "macOS, Windows Hybrid Qwen3-ASR, Whisper, BYOK cloud Hotkey dictation with a custom dictionary and configurable transcript cleanup.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Free, open-source, real-time dictation for Windows. Runs locally (no cloud!), uses AI, and types directly into any application via a user-friendly GUI.",
-            "homepage": null,
-            "id": 957391487,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-07-08T07:10:07Z",
-            "open_issues": 7,
-            "owner": "gurjar1",
-            "repo": "OmniDictate",
-            "stars": 153,
+            "description": "Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)",
+            "homepage": "https://github.com/appergb/openless",
+            "id": 1222252809,
+            "language": "Rust",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-09-16T14:22:49Z",
+            "open_issues": 36,
+            "owner": "Open-Less",
+            "repo": "openless",
+            "stars": 3555,
             "topics": [
-              "ai-dictation",
+              "ai-prompt",
+              "asr",
               "dictation",
-              "faster-whisper",
-              "live-transcribe",
-              "real-time",
-              "real-time-streaming",
+              "linux",
+              "llm",
+              "macos",
+              "open-source",
+              "prompt-engineering",
+              "rust",
               "speech-to-text",
-              "text-to-speech",
-              "transcribe",
-              "whisper"
+              "tauri",
+              "typeless",
+              "typeless-alternative",
+              "voice-input",
+              "windows",
+              "wispr-flow-alternative"
             ]
           },
-          "first_seen": "2026-08-28T20:25:55.421Z"
+          "first_seen": "2026-09-17T13:48:32.527Z"
         },
         {
           "node_type": "item",
@@ -550,10 +938,10 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2026-09-15T08:13:34Z",
-            "open_issues": 90,
+            "open_issues": 89,
             "owner": "Starmel",
             "repo": "OpenSuperWhisper",
-            "stars": 2889,
+            "stars": 2893,
             "topics": [
               "dictation",
               "macos",
@@ -576,10 +964,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-09T02:54:12Z",
-            "open_issues": 43,
+            "open_issues": 44,
             "owner": "tover0314-w",
             "repo": "opentypeless",
-            "stars": 538,
+            "stars": 539,
             "topics": [
               "ai",
               "ai-tools",
@@ -617,11 +1005,11 @@
             "id": 1004647857,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-16T13:26:31Z",
-            "open_issues": 319,
+            "last_commit": "2026-09-17T10:59:20Z",
+            "open_issues": 324,
             "owner": "OpenWhispr",
             "repo": "openwhispr",
-            "stars": 8264,
+            "stars": 8302,
             "topics": [
               "ai",
               "anthropic",
@@ -641,6 +1029,39 @@
             ]
           },
           "first_seen": "2026-08-28T20:25:55.421Z"
+        },
+        {
+          "node_type": "item",
+          "title": "OSTT",
+          "description": "Linux, macOS Hybrid Whisper.cpp, BYOK cloud CLI dictation with a hotkey popup, automatic paste, and transcript processing through shell commands.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open source voice-to-text for the terminal. Record from a hotkey, transcribe with any provider, pipe to AI or shell commands.",
+            "homepage": "https://ostt.ai",
+            "id": 1105317403,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-09-16T21:39:10Z",
+            "open_issues": 3,
+            "owner": "kristoferlund",
+            "repo": "ostt",
+            "stars": 295,
+            "topics": [
+              "dictation",
+              "hyprland",
+              "linux",
+              "omarchy",
+              "ratatui",
+              "rust",
+              "speech-to-text",
+              "transcription",
+              "tui",
+              "voice-input",
+              "wayland"
+            ]
+          },
+          "first_seen": "2026-09-17T13:48:32.527Z"
         },
         {
           "node_type": "item",
@@ -749,6 +1170,58 @@
         },
         {
           "node_type": "item",
+          "title": "SpeakType",
+          "description": "macOS Local WhisperKit Hold-to-talk offline dictation with a global shortcut and automatic paste into the active app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "100% offline, open-source, Voice Dictation app on any OS",
+            "homepage": "https://tryspeaktype.com",
+            "id": 1129299091,
+            "language": "Swift",
+            "license": "MIT",
+            "last_commit": "2026-09-17T12:57:16Z",
+            "open_issues": 28,
+            "owner": "karansinghgit",
+            "repo": "speaktype",
+            "stars": 433,
+            "topics": []
+          },
+          "first_seen": "2026-09-17T13:48:32.527Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Talk-type",
+          "description": "macOS Hybrid Apple Speech, Whisper.cpp Chinese, English, and mixed-language dictation with live previews, optional text cleanup, and local Whisper fallback.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "macOS AI 语音输入工具，支持中文与中英混合识别、AI 文本整理、上下文格式匹配和本地优先。",
+            "homepage": null,
+            "id": 1270198684,
+            "language": "Swift",
+            "license": "MIT",
+            "last_commit": "2026-08-14T15:59:02Z",
+            "open_issues": 0,
+            "owner": "cyx2333hhh",
+            "repo": "talk-type",
+            "stars": 295,
+            "topics": [
+              "deepseek",
+              "dictation",
+              "macos",
+              "menu-bar",
+              "productivity",
+              "speech-to-text",
+              "swift",
+              "swiftui",
+              "voice-input"
+            ]
+          },
+          "first_seen": "2026-09-17T13:48:32.527Z"
+        },
+        {
+          "node_type": "item",
           "title": "Tambourine Voice",
           "description": "macOS, Windows Hybrid Faster Whisper, BYOK cloud Voice interface for any app with configurable STT and LLM providers.",
           "children": [],
@@ -816,6 +1289,68 @@
         },
         {
           "node_type": "item",
+          "title": "TranscriptionSuite",
+          "description": "Linux, macOS, Windows Local Faster Whisper, Whisper.cpp, Parakeet Dictation with global shortcuts and automatic paste, using a local or self-hosted transcription server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A fully local and private Speech-To-Text app, offering multiple model backends, diarization & calendar mode - Available for Windows, macOS & Linux",
+            "homepage": "https://transcriptionsuite.app/",
+            "id": 972441995,
+            "language": "TypeScript",
+            "license": "GPL-3.0",
+            "last_commit": "2026-09-15T19:21:10Z",
+            "open_issues": 27,
+            "owner": "homelab-00",
+            "repo": "TranscriptionSuite",
+            "stars": 737,
+            "topics": [
+              "cuda",
+              "diarization",
+              "dictation-tool",
+              "linux-app",
+              "local-first",
+              "macos-app",
+              "mlx",
+              "nemo",
+              "open-source-project",
+              "speech-to-text-transcription",
+              "speech-to-text-translation",
+              "vulkan",
+              "whisper",
+              "windows-app"
+            ]
+          },
+          "first_seen": "2026-09-17T13:48:32.527Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Typeflux",
+          "description": "macOS Hybrid SenseVoice, Paraformer, WhisperKit, Qwen3-ASR, BYOK cloud Hold Fn to dictate into the active app, with streaming previews, local history, and voice-driven text rewriting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Typeflux is a macOS menu bar voice input tool built with Swift. It is designed for a fast \"hold to talk, release to insert\" workflow: press a hotkey, speak naturally, let the app transcribe your speech, and send the resulting text back into the currently focused app.",
+            "homepage": "https://typeflux.app",
+            "id": 1132681527,
+            "language": "Swift",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-09-17T13:44:01Z",
+            "open_issues": 9,
+            "owner": "mylxsw",
+            "repo": "typeflux",
+            "stars": 348,
+            "topics": [
+              "typeless-alternative",
+              "voice-assistant",
+              "voice-input",
+              "voice-recognition"
+            ]
+          },
+          "first_seen": "2026-09-17T13:48:32.527Z"
+        },
+        {
+          "node_type": "item",
           "title": "TypeWhisper",
           "description": "macOS Hybrid Whisper (local and/or cloud) Voice typing app with both local and cloud engine options.",
           "children": [],
@@ -826,11 +1361,11 @@
             "id": 1156604835,
             "language": "Swift",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-16T13:45:04Z",
-            "open_issues": 87,
+            "last_commit": "2026-09-17T10:20:19Z",
+            "open_issues": 90,
             "owner": "TypeWhisper",
             "repo": "typewhisper-mac",
-            "stars": 1790,
+            "stars": 1796,
             "topics": [
               "apple-silicon",
               "dictation",
@@ -848,35 +1383,6 @@
         },
         {
           "node_type": "item",
-          "title": "Vibe",
-          "description": "Linux, macOS, Windows Local Whisper.cpp Desktop app to transcribe audio and video offline using OpenAI Whisper.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Transcribe on your own!",
-            "homepage": "https://thewh1teagle.github.io/vibe/",
-            "id": 740293013,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-09-05T13:40:53Z",
-            "open_issues": 162,
-            "owner": "thewh1teagle",
-            "repo": "vibe",
-            "stars": 7501,
-            "topics": [
-              "ai",
-              "cross-platform",
-              "desktop",
-              "openai",
-              "rust",
-              "transcribe",
-              "whisper"
-            ]
-          },
-          "first_seen": "2026-08-28T20:25:55.421Z"
-        },
-        {
-          "node_type": "item",
           "title": "Vocalinux",
           "description": "Linux Local Whisper.cpp, Whisper, Vosk Linux dictation with distro-specific setup guides and Vulkan acceleration notes.",
           "children": [],
@@ -887,11 +1393,11 @@
             "id": 964931785,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-16T13:44:30Z",
-            "open_issues": 51,
+            "last_commit": "2026-09-17T13:20:00Z",
+            "open_issues": 53,
             "owner": "VocaHQ",
             "repo": "vocalinux",
-            "stars": 828,
+            "stars": 833,
             "topics": [
               "accessibility",
               "dictation",
@@ -914,6 +1420,48 @@
         },
         {
           "node_type": "item",
+          "title": "VoiceFlow",
+          "description": "Linux, Windows Local Faster Whisper Tray dictation with hold or toggle shortcuts, automatic paste, and searchable transcript history.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Local voice dictation and meeting recorder for Windows + Linux. Hold a hotkey to dictate, or record long-form meetings with system audio. Whisper transcription, bring-your-own-LLM summaries. Open source.",
+            "homepage": "https://get-voice-flow.vercel.app/",
+            "id": 1115877146,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-06-21T19:49:03Z",
+            "open_issues": 11,
+            "owner": "infiniV",
+            "repo": "VoiceFlow",
+            "stars": 419,
+            "topics": [
+              "audio-recording",
+              "cross-platform",
+              "dictation",
+              "faster-whisper",
+              "hyprland",
+              "linux",
+              "meeting-recorder",
+              "meeting-transcription",
+              "offline",
+              "open-source",
+              "openai-whisper",
+              "privacy",
+              "pyloid",
+              "python",
+              "react",
+              "speech-to-text",
+              "transcription",
+              "voice-to-text",
+              "wayland",
+              "whisper"
+            ]
+          },
+          "first_seen": "2026-09-17T13:48:32.527Z"
+        },
+        {
+          "node_type": "item",
           "title": "VoiceInk",
           "description": "macOS Hybrid WhisperKit, BYOK Native macOS dictation with per-app tuning, a custom dictionary, and optional commercial distribution.",
           "children": [],
@@ -924,11 +1472,11 @@
             "id": 875661263,
             "language": "Swift",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-16T08:54:31Z",
-            "open_issues": 133,
+            "last_commit": "2026-09-17T08:49:47Z",
+            "open_issues": 138,
             "owner": "Beingpax",
             "repo": "VoiceInk",
-            "stars": 6429,
+            "stars": 6436,
             "topics": [
               "macos",
               "macos-app",
@@ -953,7 +1501,7 @@
             "open_issues": 6,
             "owner": "ideaplexa",
             "repo": "voicetypr",
-            "stars": 718,
+            "stars": 719,
             "topics": [
               "reactjs",
               "shadcn-ui",
@@ -1042,10 +1590,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-10T11:53:27Z",
-            "open_issues": 197,
+            "open_issues": 203,
             "owner": "peteonrails",
             "repo": "voxtype",
-            "stars": 1473,
+            "stars": 1481,
             "topics": [
               "accessibility",
               "dictation",
@@ -1070,40 +1618,6 @@
         },
         {
           "node_type": "item",
-          "title": "WhisperBoard",
-          "description": "iOS Local Whisper.cpp iOS app for recording speech and producing text with downloadable Whisper models.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The open-source iOS app that's making quality voice transcription more accessible on mobile devices.",
-            "homepage": null,
-            "id": 581681673,
-            "language": "Swift",
-            "license": "GPL-3.0",
-            "last_commit": "2025-12-18T06:51:44Z",
-            "open_issues": 24,
-            "owner": "Saik0s",
-            "repo": "Whisperboard",
-            "stars": 1101,
-            "topics": [
-              "audio-to-text",
-              "composable-architecture",
-              "ios",
-              "openai",
-              "speech-recognition",
-              "speech-to-text",
-              "swiftui",
-              "tca",
-              "transcription",
-              "tuist",
-              "whisper",
-              "whisper-cpp"
-            ]
-          },
-          "first_seen": "2026-08-28T20:25:55.421Z"
-        },
-        {
-          "node_type": "item",
           "title": "Whisper IME",
           "description": "Android Local Whisper.cpp Android keyboard and standalone app powered by Whisper, fully offline, and available on F-Droid.",
           "children": [],
@@ -1118,7 +1632,7 @@
             "open_issues": 21,
             "owner": "woheller69",
             "repo": "whisperIME",
-            "stars": 640,
+            "stars": 641,
             "topics": [
               "android",
               "on-device-ai",
@@ -1126,37 +1640,6 @@
               "speech-recognition",
               "transcription",
               "translation",
-              "whisper"
-            ]
-          },
-          "first_seen": "2026-08-28T20:25:55.421Z"
-        },
-        {
-          "node_type": "item",
-          "title": "whisper-writer",
-          "description": "Linux, macOS, Windows Hybrid Faster Whisper, OpenAI API Hotkey-driven dictation that auto-types into the active window with several recording modes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "💬📝 A small dictation app using OpenAI's Whisper speech recognition model.",
-            "homepage": null,
-            "id": 629730614,
-            "language": "Python",
-            "license": "GPL-3.0",
-            "last_commit": "2024-08-24T20:31:15Z",
-            "open_issues": 86,
-            "owner": "savbell",
-            "repo": "whisper-writer",
-            "stars": 1100,
-            "topics": [
-              "dictation",
-              "faster-whisper",
-              "openai",
-              "openai-api",
-              "openai-whisper",
-              "speech-recognition",
-              "speech-to-text",
-              "typing-assistant",
               "whisper"
             ]
           },
@@ -1178,7 +1661,7 @@
             "open_issues": 1,
             "owner": "themanyone",
             "repo": "whisper_dictation",
-            "stars": 293,
+            "stars": 294,
             "topics": [
               "ai",
               "assistant-chat-bots",
@@ -1261,10 +1744,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-09-15T10:42:26Z",
-            "open_issues": 349,
+            "open_issues": 351,
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 53698,
+            "stars": 53724,
             "topics": [
               "inference",
               "openai",
@@ -1292,7 +1775,7 @@
             "open_issues": 323,
             "owner": "SYSTRAN",
             "repo": "faster-whisper",
-            "stars": 25425,
+            "stars": 25437,
             "topics": [
               "deep-learning",
               "inference",
@@ -1319,10 +1802,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-08-09T13:35:47Z",
-            "open_issues": 604,
+            "open_issues": 605,
             "owner": "alphacep",
             "repo": "vosk-api",
-            "stars": 15130,
+            "stars": 15134,
             "topics": [
               "android",
               "asr",
@@ -1361,10 +1844,10 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2026-08-13T19:17:27Z",
-            "open_issues": 137,
+            "open_issues": 142,
             "owner": "argmaxinc",
             "repo": "argmax-oss-swift",
-            "stars": 6367,
+            "stars": 6368,
             "topics": [
               "inference",
               "ios",
@@ -1397,11 +1880,11 @@
             "id": 638900030,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-03-17T12:02:10Z",
+            "last_commit": "2026-09-17T05:00:10Z",
             "open_issues": 7,
             "owner": "sindresorhus",
             "repo": "awesome-whisper",
-            "stars": 2382,
+            "stars": 2383,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -1420,16 +1903,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T13:45:58.613Z",
+    "last_updated": "2026-09-17T13:48:32.527Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of open-source speech-to-text and voice typing tools for Linux, macOS, Windows, Android, and iOS. Offline, local, and cloud.",
       "homepage": "https://www.agenticcodingweekly.com/p/5-best-open-source-speech-to-text-tools-in-2026",
       "id": 1175111451,
-      "language": null,
+      "language": "Python",
       "license": "MIT",
-      "last_commit": "2026-09-08T09:27:15Z",
-      "open_issues": 8,
+      "last_commit": "2026-09-17T04:15:19Z",
+      "open_issues": 7,
       "owner": "primaprashant",
       "repo": "awesome-voice-typing",
       "stars": 190,
@@ -1456,7 +1939,7 @@
         "wisprflow-alternative"
       ]
     },
-    "original_repository_sha": "ddec7667645ced3679001e48396e95ca46760390",
+    "original_repository_sha": "7ce519e327f70e80a68197d74a7d47261a9d7b32",
     "enhanced_repository": "enhansome/enhansome-voice-typing",
     "enhanced_repository_description": null,
     "title": "Awesome Voice Typing with stars"
