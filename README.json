@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-28T07:02:36Z",
-            "open_issues": 185,
+            "open_issues": 187,
             "owner": "cjpais",
             "repo": "Handy",
-            "stars": 32475,
+            "stars": 32526,
             "topics": [
               "accessibility",
               "cross-platform",
@@ -41,11 +41,11 @@
             "id": 875661263,
             "language": "Swift",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-30T15:17:36Z",
-            "open_issues": 130,
+            "last_commit": "2026-10-01T09:16:53Z",
+            "open_issues": 131,
             "owner": "Beingpax",
             "repo": "VoiceInk",
-            "stars": 6616,
+            "stars": 6628,
             "topics": [
               "macos",
               "macos-app",
@@ -58,12 +58,12 @@
       "title": "Just Tell Me What to Use"
     },
     {
-      "description": "Last updated: 2026-09-30",
+      "description": "Last updated: 2026-10-01",
       "items": [
         {
           "node_type": "item",
           "title": "OpenWhispr",
-          "description": "2,997 8,846 51.2%",
+          "description": "3,001 8,891 51.0%",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -72,11 +72,11 @@
             "id": 1004647857,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-30T09:57:39Z",
-            "open_issues": 403,
+            "last_commit": "2026-10-01T15:28:29Z",
+            "open_issues": 398,
             "owner": "OpenWhispr",
             "repo": "openwhispr",
-            "stars": 8875,
+            "stars": 8917,
             "topics": [
               "ai",
               "anthropic",
@@ -100,7 +100,7 @@
         {
           "node_type": "item",
           "title": "Handy",
-          "description": "1,780 32,435 5.8%",
+          "description": "1,780 32,493 5.8%",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -110,10 +110,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-28T07:02:36Z",
-            "open_issues": 185,
+            "open_issues": 187,
             "owner": "cjpais",
             "repo": "Handy",
-            "stars": 32475,
+            "stars": 32526,
             "topics": [
               "accessibility",
               "cross-platform",
@@ -126,7 +126,7 @@
         {
           "node_type": "item",
           "title": "FluidVoice",
-          "description": "788 11,831 7.1%",
+          "description": "768 11,849 6.9%",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -135,11 +135,11 @@
             "id": 1061327311,
             "language": "Swift",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-29T05:51:14Z",
+            "last_commit": "2026-10-01T09:36:49Z",
             "open_issues": 97,
             "owner": "altic-dev",
             "repo": "FluidVoice",
-            "stars": 11842,
+            "stars": 11864,
             "topics": [
               "ai",
               "dictation",
@@ -154,7 +154,7 @@
         {
           "node_type": "item",
           "title": "VoiceInk",
-          "description": "433 6,613 7.0%",
+          "description": "413 6,619 6.7%",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -163,11 +163,11 @@
             "id": 875661263,
             "language": "Swift",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-30T15:17:36Z",
-            "open_issues": 130,
+            "last_commit": "2026-10-01T09:16:53Z",
+            "open_issues": 131,
             "owner": "Beingpax",
             "repo": "VoiceInk",
-            "stars": 6616,
+            "stars": 6628,
             "topics": [
               "macos",
               "macos-app",
@@ -179,7 +179,7 @@
         {
           "node_type": "item",
           "title": "OpenLess",
-          "description": "309 3,671 9.2%",
+          "description": "310 3,683 9.2%",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -188,11 +188,11 @@
             "id": 1222252809,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-30T13:23:16Z",
-            "open_issues": 27,
+            "last_commit": "2026-10-01T11:11:30Z",
+            "open_issues": 30,
             "owner": "Open-Less",
             "repo": "openless",
-            "stars": 3678,
+            "stars": 3694,
             "topics": [
               "ai-prompt",
               "asr",
@@ -217,7 +217,7 @@
         {
           "node_type": "item",
           "title": "Muesli",
-          "description": "273 1,323 26.0%",
+          "description": "273 1,329 25.9%",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -226,11 +226,11 @@
             "id": 1173545104,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-09-30T14:52:57Z",
-            "open_issues": 104,
+            "last_commit": "2026-10-01T13:33:19Z",
+            "open_issues": 101,
             "owner": "Muesli-HQ",
             "repo": "muesli",
-            "stars": 1328,
+            "stars": 1335,
             "topics": [
               "agents",
               "apple-silicon",
@@ -249,7 +249,7 @@
         {
           "node_type": "item",
           "title": "VoxType",
-          "description": "266 1,573 20.4%",
+          "description": "261 1,579 19.8%",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -258,11 +258,11 @@
             "id": 1105984666,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-28T13:58:49Z",
+            "last_commit": "2026-09-30T21:32:32Z",
             "open_issues": 227,
             "owner": "peteonrails",
             "repo": "voxtype",
-            "stars": 1574,
+            "stars": 1585,
             "topics": [
               "accessibility",
               "dictation",
@@ -288,7 +288,7 @@
         {
           "node_type": "item",
           "title": "OpenSuperWhisper",
-          "description": "223 2,970 8.1%",
+          "description": "218 2,974 7.9%",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -301,7 +301,7 @@
             "open_issues": 94,
             "owner": "Starmel",
             "repo": "OpenSuperWhisper",
-            "stars": 2971,
+            "stars": 2979,
             "topics": [
               "dictation",
               "macos",
@@ -314,7 +314,7 @@
         {
           "node_type": "item",
           "title": "CapsWriter-Offline",
-          "description": "193 6,889 2.9%",
+          "description": "196 6,895 2.9%",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -327,7 +327,7 @@
             "open_issues": 211,
             "owner": "HaujetZhao",
             "repo": "CapsWriter-Offline",
-            "stars": 6894,
+            "stars": 6898,
             "topics": []
           },
           "first_seen": "2026-09-08T13:05:42.624Z"
@@ -335,7 +335,7 @@
         {
           "node_type": "item",
           "title": "SpeakoFlow",
-          "description": "125 257 94.7%",
+          "description": "125 258 94.0%",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -344,7 +344,7 @@
             "id": 1272374498,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-30T08:39:00Z",
+            "last_commit": "2026-10-01T15:08:09Z",
             "open_issues": 4,
             "owner": "AbhishekBarali",
             "repo": "SpeakoFlow",
@@ -391,11 +391,11 @@
             "id": 1175111451,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-30T00:17:30Z",
+            "last_commit": "2026-10-01T00:17:23Z",
             "open_issues": 10,
             "owner": "primaprashant",
             "repo": "awesome-voice-typing",
-            "stars": 198,
+            "stars": 199,
             "topics": [
               "ai",
               "automatic-speech-recognition",
@@ -433,11 +433,11 @@
             "id": 1175111451,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-30T00:17:30Z",
+            "last_commit": "2026-10-01T00:17:23Z",
             "open_issues": 10,
             "owner": "primaprashant",
             "repo": "awesome-voice-typing",
-            "stars": 198,
+            "stars": 199,
             "topics": [
               "ai",
               "automatic-speech-recognition",
@@ -485,7 +485,7 @@
             "open_issues": 55,
             "owner": "amicalhq",
             "repo": "amical",
-            "stars": 1540,
+            "stars": 1542,
             "topics": [
               "ai",
               "ai-note-taking-app",
@@ -526,7 +526,7 @@
             "open_issues": 15,
             "owner": "BryceWG",
             "repo": "BiBi-Keyboard",
-            "stars": 807,
+            "stars": 809,
             "topics": [
               "android-app",
               "asr",
@@ -558,7 +558,7 @@
             "open_issues": 211,
             "owner": "HaujetZhao",
             "repo": "CapsWriter-Offline",
-            "stars": 6894,
+            "stars": 6898,
             "topics": []
           },
           "first_seen": "2026-09-08T13:05:42.624Z"
@@ -579,7 +579,7 @@
             "open_issues": 40,
             "owner": "Whamp",
             "repo": "chirp-stt",
-            "stars": 194,
+            "stars": 193,
             "topics": []
           },
           "first_seen": "2026-08-28T20:25:55.421Z"
@@ -600,7 +600,7 @@
             "open_issues": 137,
             "owner": "open-software-network",
             "repo": "os-clovy",
-            "stars": 356,
+            "stars": 357,
             "topics": [
               "ai",
               "ai-agent",
@@ -626,11 +626,11 @@
             "id": 807605392,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-29T21:31:57Z",
+            "last_commit": "2026-09-30T18:15:53Z",
             "open_issues": 27,
             "owner": "DevEmperor",
             "repo": "DictateKeyboard",
-            "stars": 292,
+            "stars": 293,
             "topics": [
               "ai",
               "android",
@@ -685,11 +685,11 @@
             "id": 614695583,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-30T04:49:32Z",
+            "last_commit": "2026-10-01T05:05:21Z",
             "open_issues": 207,
             "owner": "EpicenterHQ",
             "repo": "epicenter",
-            "stars": 4815,
+            "stars": 4818,
             "topics": [
               "svelte",
               "sveltekit",
@@ -715,7 +715,7 @@
             "open_issues": 3,
             "owner": "xifan2333",
             "repo": "fcitx5-vinput",
-            "stars": 475,
+            "stars": 476,
             "topics": [
               "fcitx5",
               "input-method",
@@ -740,11 +740,11 @@
             "id": 1061327311,
             "language": "Swift",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-29T05:51:14Z",
+            "last_commit": "2026-10-01T09:36:49Z",
             "open_issues": 97,
             "owner": "altic-dev",
             "repo": "FluidVoice",
-            "stars": 11842,
+            "stars": 11864,
             "topics": [
               "ai",
               "dictation",
@@ -772,7 +772,7 @@
             "open_issues": 2,
             "owner": "evoleinik",
             "repo": "fnkey",
-            "stars": 49,
+            "stars": 48,
             "topics": [
               "deepgram",
               "deepgram-nova",
@@ -807,7 +807,7 @@
             "open_issues": 3,
             "owner": "freestyle-voice",
             "repo": "freestyle",
-            "stars": 486,
+            "stars": 487,
             "topics": [
               "dictation",
               "dictation-app",
@@ -836,7 +836,7 @@
             "open_issues": 69,
             "owner": "matthartman",
             "repo": "ghost-pepper",
-            "stars": 3192,
+            "stars": 3193,
             "topics": []
           },
           "first_seen": "2026-08-28T20:25:55.421Z"
@@ -857,7 +857,7 @@
             "open_issues": 1,
             "owner": "glimpse-hq",
             "repo": "Glimpse",
-            "stars": 56,
+            "stars": 57,
             "topics": [
               "ai-cleanup",
               "app",
@@ -894,10 +894,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-28T07:02:36Z",
-            "open_issues": 185,
+            "open_issues": 187,
             "owner": "cjpais",
             "repo": "Handy",
-            "stars": 32475,
+            "stars": 32526,
             "topics": [
               "accessibility",
               "cross-platform",
@@ -947,11 +947,11 @@
             "id": 1045801018,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-29T22:51:54Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-01T01:04:28Z",
+            "open_issues": 8,
             "owner": "goodroot",
             "repo": "hyprwhspr",
-            "stars": 1222,
+            "stars": 1223,
             "topics": [
               "ai",
               "archlinux",
@@ -993,7 +993,7 @@
             "open_issues": 1,
             "owner": "missuo",
             "repo": "koe",
-            "stars": 432,
+            "stars": 433,
             "topics": []
           },
           "first_seen": "2026-09-17T13:48:32.527Z"
@@ -1011,10 +1011,10 @@
             "language": "Swift",
             "license": "NOASSERTION",
             "last_commit": "2026-09-30T02:41:23Z",
-            "open_issues": 55,
+            "open_issues": 56,
             "owner": "moona3k",
             "repo": "macparakeet",
-            "stars": 674,
+            "stars": 678,
             "topics": [
               "apple-silicon",
               "dictation",
@@ -1044,11 +1044,11 @@
             "id": 1173545104,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-09-30T14:52:57Z",
-            "open_issues": 104,
+            "last_commit": "2026-10-01T13:33:19Z",
+            "open_issues": 101,
             "owner": "Muesli-HQ",
             "repo": "muesli",
-            "stars": 1328,
+            "stars": 1335,
             "topics": [
               "agents",
               "apple-silicon",
@@ -1076,11 +1076,11 @@
             "id": 1074951038,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-27T22:10:43Z",
-            "open_issues": 27,
+            "last_commit": "2026-10-01T10:15:14Z",
+            "open_issues": 29,
             "owner": "Kieirra",
             "repo": "murmure",
-            "stars": 1080,
+            "stars": 1081,
             "topics": [
               "asr",
               "asr-model",
@@ -1110,7 +1110,7 @@
             "open_issues": 83,
             "owner": "ideasman42",
             "repo": "nerd-dictation",
-            "stars": 1929,
+            "stars": 1930,
             "topics": []
           },
           "first_seen": "2026-08-28T20:25:55.421Z"
@@ -1131,7 +1131,7 @@
             "open_issues": 62,
             "owner": "notune",
             "repo": "android_transcribe_app",
-            "stars": 306,
+            "stars": 307,
             "topics": []
           },
           "first_seen": "2026-08-28T20:25:55.421Z"
@@ -1148,11 +1148,11 @@
             "id": 1222252809,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-30T13:23:16Z",
-            "open_issues": 27,
+            "last_commit": "2026-10-01T11:11:30Z",
+            "open_issues": 30,
             "owner": "Open-Less",
             "repo": "openless",
-            "stars": 3678,
+            "stars": 3694,
             "topics": [
               "ai-prompt",
               "asr",
@@ -1190,7 +1190,7 @@
             "open_issues": 94,
             "owner": "Starmel",
             "repo": "OpenSuperWhisper",
-            "stars": 2971,
+            "stars": 2979,
             "topics": [
               "dictation",
               "macos",
@@ -1216,7 +1216,7 @@
             "open_issues": 52,
             "owner": "tover0314-w",
             "repo": "opentypeless",
-            "stars": 575,
+            "stars": 578,
             "topics": [
               "ai",
               "ai-tools",
@@ -1254,11 +1254,11 @@
             "id": 1004647857,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-30T09:57:39Z",
-            "open_issues": 403,
+            "last_commit": "2026-10-01T15:28:29Z",
+            "open_issues": 398,
             "owner": "OpenWhispr",
             "repo": "openwhispr",
-            "stars": 8875,
+            "stars": 8917,
             "topics": [
               "ai",
               "anthropic",
@@ -1388,7 +1388,7 @@
             "id": 1272374498,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-30T08:39:00Z",
+            "last_commit": "2026-10-01T15:08:09Z",
             "open_issues": 4,
             "owner": "AbhishekBarali",
             "repo": "SpeakoFlow",
@@ -1552,7 +1552,7 @@
             "open_issues": 25,
             "owner": "homelab-00",
             "repo": "TranscriptionSuite",
-            "stars": 751,
+            "stars": 752,
             "topics": [
               "cuda",
               "diarization",
@@ -1584,11 +1584,11 @@
             "id": 1132681527,
             "language": "Swift",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-30T15:14:53Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-01T14:55:41Z",
+            "open_issues": 7,
             "owner": "mylxsw",
             "repo": "typeflux",
-            "stars": 356,
+            "stars": 357,
             "topics": [
               "typeless-alternative",
               "voice-assistant",
@@ -1610,8 +1610,8 @@
             "id": 1156604835,
             "language": "Swift",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-30T13:16:55Z",
-            "open_issues": 77,
+            "last_commit": "2026-10-01T15:12:56Z",
+            "open_issues": 76,
             "owner": "TypeWhisper",
             "repo": "typewhisper-mac",
             "stars": 1811,
@@ -1642,11 +1642,11 @@
             "id": 964931785,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-30T12:56:58Z",
+            "last_commit": "2026-10-01T08:42:13Z",
             "open_issues": 16,
             "owner": "VocaHQ",
             "repo": "vocalinux",
-            "stars": 895,
+            "stars": 899,
             "topics": [
               "accessibility",
               "dictation",
@@ -1721,11 +1721,11 @@
             "id": 875661263,
             "language": "Swift",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-30T15:17:36Z",
-            "open_issues": 130,
+            "last_commit": "2026-10-01T09:16:53Z",
+            "open_issues": 131,
             "owner": "Beingpax",
             "repo": "VoiceInk",
-            "stars": 6616,
+            "stars": 6628,
             "topics": [
               "macos",
               "macos-app",
@@ -1777,7 +1777,7 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-09-26T17:29:37Z",
-            "open_issues": 63,
+            "open_issues": 64,
             "owner": "voquill",
             "repo": "voquill",
             "stars": 1012,
@@ -1812,7 +1812,7 @@
             "open_issues": 31,
             "owner": "jakovius",
             "repo": "voxd",
-            "stars": 298,
+            "stars": 297,
             "topics": [
               "ai-transcription",
               "dictation",
@@ -1838,11 +1838,11 @@
             "id": 1105984666,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-28T13:58:49Z",
+            "last_commit": "2026-09-30T21:32:32Z",
             "open_issues": 227,
             "owner": "peteonrails",
             "repo": "voxtype",
-            "stars": 1574,
+            "stars": 1585,
             "topics": [
               "accessibility",
               "dictation",
@@ -1993,10 +1993,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-09-28T18:35:46Z",
-            "open_issues": 348,
+            "open_issues": 350,
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 54042,
+            "stars": 54074,
             "topics": [
               "inference",
               "openai",
@@ -2020,11 +2020,11 @@
             "id": 600368121,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2025-11-19T14:40:46Z",
-            "open_issues": 316,
+            "last_commit": "2026-10-01T14:01:34Z",
+            "open_issues": 222,
             "owner": "SYSTRAN",
             "repo": "faster-whisper",
-            "stars": 25638,
+            "stars": 25664,
             "topics": [
               "deep-learning",
               "inference",
@@ -2093,10 +2093,10 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2026-09-24T23:35:24Z",
-            "open_issues": 139,
+            "open_issues": 141,
             "owner": "argmaxinc",
             "repo": "argmax-oss-swift",
-            "stars": 6385,
+            "stars": 6387,
             "topics": [
               "inference",
               "ios",
@@ -2152,7 +2152,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T15:22:45.781Z",
+    "last_updated": "2026-10-01T15:42:48.770Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of open-source speech-to-text and voice typing tools for Linux, macOS, Windows, Android, and iOS. Offline, local, and cloud.",
@@ -2160,11 +2160,11 @@
       "id": 1175111451,
       "language": "Python",
       "license": "MIT",
-      "last_commit": "2026-09-30T00:17:30Z",
+      "last_commit": "2026-10-01T00:17:23Z",
       "open_issues": 10,
       "owner": "primaprashant",
       "repo": "awesome-voice-typing",
-      "stars": 198,
+      "stars": 199,
       "topics": [
         "ai",
         "automatic-speech-recognition",
@@ -2188,7 +2188,7 @@
         "wisprflow-alternative"
       ]
     },
-    "original_repository_sha": "f4ac7f2889bcab3bcca70ebe18597e907283cb69",
+    "original_repository_sha": "e28a4c962385fb01fc6854c2fd08092a8a432c11",
     "enhanced_repository": "enhansome/enhansome-voice-typing",
     "enhanced_repository_description": null,
     "title": "Awesome Voice Typing with stars"
